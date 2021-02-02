@@ -1,1 +1,2 @@
-z = a + b + c
+def():
+  return a + b
