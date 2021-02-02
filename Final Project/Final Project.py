@@ -9,9 +9,6 @@
 ## Build the DL model
 
 ## Evaluate the DL model
-
-def add(a,b):
-    return a+b
   
 def(a, b ,c,d ,gavin):
   return a + b +c+d + gavin
