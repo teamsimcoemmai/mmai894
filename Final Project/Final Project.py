@@ -12,3 +12,6 @@
 
 def add(a,b):
     return a+b
+  
+def(a, b ,c,d ,gavin):
+  return a + b +c+d + gavin
