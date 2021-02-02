@@ -9,3 +9,6 @@
 ## Build the DL model
 
 ## Evaluate the DL model
+  
+def(a, b ,c,d ,gavin):
+  return a + b +c+d + gavin
