@@ -9,3 +9,6 @@
 ## Build the DL model
 
 ## Evaluate the DL model
+
+def add(a,b):
+    return a+b
