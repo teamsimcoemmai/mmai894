@@ -1,2 +1,2 @@
-def(a, b ,c):
-  return a + b +c
+def(a, b):
+  return a + b
