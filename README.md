@@ -1,7 +1,7 @@
 # MMAI 894
 Repository for MMAI 894 Project.
 
-- The notebook here is for <b>results demstration only</b>. 
+- The notebook here is for <b>results demonstration only</b>. 
 
 - Due to the storage limitation, the data in the dataset are only samples. 
 
